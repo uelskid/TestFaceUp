@@ -105,9 +105,7 @@
 			children = (
 				B35CD74E2464608700261991 /* AppDelegate.swift */,
 				B35CD7502464608800261991 /* SceneDelegate.swift */,
-				B35CD7522464608800261991 /* ContentView.swift */,
-				B35CD77E2464661300261991 /* WorkoutPage.swift */,
-				B35CD783246474C600261991 /* ExercisePageTest.swift */,
+				B35CD785246484D900261991 /* Test App */,
 				B35CD7542464608C00261991 /* Assets.xcassets */,
 				B35CD7592464608C00261991 /* LaunchScreen.storyboard */,
 				B35CD75C2464608C00261991 /* Info.plist */,
@@ -140,6 +138,16 @@
 				B35CD7722464608D00261991 /* Info.plist */,
 			);
 			path = 123UITests;
+			sourceTree = "<group>";
+		};
+		B35CD785246484D900261991 /* Test App */ = {
+			isa = PBXGroup;
+			children = (
+				B35CD7522464608800261991 /* ContentView.swift */,
+				B35CD77E2464661300261991 /* WorkoutPage.swift */,
+				B35CD783246474C600261991 /* ExercisePageTest.swift */,
+			);
+			path = "Test App";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
